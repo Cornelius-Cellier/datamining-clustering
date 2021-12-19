@@ -1,2 +1,2 @@
 # datamining-clustering
-An assignment for the Python introduction course @EDHEC
+An assignment for the datamining course @EDHEC
